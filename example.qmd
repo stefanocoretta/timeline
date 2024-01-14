@@ -1,0 +1,14 @@
+---
+title: "Timeline Example"
+filters:
+  - timeline
+---
+
+::: timeline
+- 2006
+  Ciao
+- 2007
+  Baby
+:::
+
+
