@@ -21,7 +21,7 @@ body {
 .timestamp {
   width: 100%;
   margin-bottom: 20px;
-  /* padding: 0px 40px; */
+  padding: 0px 40px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -69,7 +69,7 @@ body {
 }
 
 .swiper-slide {
-  width: 150px !important;
+  width: 200px;
   text-align: center;
   font-size: 18px;
 }
