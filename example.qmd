@@ -5,10 +5,14 @@ filters:
 ---
 
 ::: timeline
-- 2006
-  Ciao
 - 2007
-  Baby
+  [Started Uni]{}
+- 2008
+- [Sep 2009]{}
+  [BA degree]{}
+- [Oct 2010]{}
+  [Joined Awesome Company]{}
+- today
 :::
 
 
